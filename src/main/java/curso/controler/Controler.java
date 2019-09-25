@@ -61,7 +61,7 @@ public class Controler {
 
     	resposta.append("<head><link rel=\"stylesheet\" type=\"text/css\" href=\"../css/styles.css\"></head>");
 
-    	resposta.append("<img src=\"../img/logoAccenture.PNG\" width=\"150\" >");    	    	
+    	resposta.append("<img src=\"../img/logomarca.png\" width=\"150\" >");    	    	
     	
     	resposta.append("<h2>Formação Profissional</h2>");
     	    	
