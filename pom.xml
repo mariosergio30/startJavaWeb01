@@ -10,9 +10,9 @@
 	</parent>
 
 	<groupId>projetos</groupId>
-	<artifactId>aprendendoServlet</artifactId>
+	<artifactId>startJavaWeb01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<dependencies>
 
